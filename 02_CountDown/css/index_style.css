@@ -1,0 +1,48 @@
+.colock-container
+{
+  width: 400px;
+  background-color: gray;
+  position: relative;
+}
+
+.colock-box{
+  background-color: rgb(185, 185, 185);
+  width: 90%;
+  padding: 0 90px;
+}
+
+.colock-box p{
+  font-weight: 500;
+  font-size: 40px;
+
+}
+
+
+.colock-container .shape
+{
+  text-align: center;
+  font-weight: 500;
+  font-size: 18px;
+  width: 50%;
+  transform: translateY(-110%);
+  position: absolute;
+  left: 25%;
+}
+
+.time{
+  margin: 0 -75px;
+
+}
+
+
+.time p{
+  font-size: 50px;
+}
+.caption p{
+  font-size: 19px;
+  margin: 0 11px;
+}
+
+.caption{
+  margin: 0 -85px;
+}
